@@ -50,7 +50,7 @@ Com os seguintes dados:
 
 ```
 {
-  "email": "vinicios@alura.com.br",
+  "email": "joao@mail.com",
   "senha":"123456"
 }
 ```
